@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67550" started-at="2018-10-28T07:36:19Z" finished-at="2018-10-28T07:37:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67550" started-at="2018-10-28T07:36:19Z" finished-at="2018-10-28T07:37:26Z">
+      <class name="soni.TestScenario.TestNGWebsite">
+        <test-method status="PASS" signature="MoveElementPractice()[pri:0, instance:soni.TestScenario.TestNGWebsite@26653222]" name="MoveElementPractice" duration-ms="67518" started-at="2018-10-28T13:06:19Z" finished-at="2018-10-28T13:07:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MoveElementPractice -->
+      </class> <!-- soni.TestScenario.TestNGWebsite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

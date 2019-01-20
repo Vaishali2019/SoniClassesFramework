@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<!-- <groups> <run> <include name = "Sanitytesting"/> </run> </groups> -->
+		<classes>
+			<class name="soni.TestScenario.FactoryAnnotationExample" />
+			<!-- <class name="soni.TestScenario.TestNGClass1"> <parameter name="Browser" 
+				value="Chrome"></parameter> <methods> <include name="d"> </include> </methods> 
+				</class> <class name="soni.TestScenario.TestNGClass2"> <methods> <exclude 
+				name="y"> </exclude> </methods> </class> <class name="soni.TestScenario.TestNGClass3"> 
+				</class> -->
+		</classes>
+	</test> 
+	</suite>
