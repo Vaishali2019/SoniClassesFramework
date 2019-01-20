@@ -32,6 +32,9 @@ public class BasePageObject {
 	public void clickOnElement(By locator) {
 		findElementSafelyByLocator(locator).click();
 	}
+	
+	
+	//////
 
 	
 	
